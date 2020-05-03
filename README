@@ -1,0 +1,8 @@
+This code:
+ - Validates that input data is in the correct format
+ - When moving rovers:
+ --- Prevents rovers from colliding
+ --- Constrains rovers' movements to inside of the plateau's dimensions
+
+To run the tests, please run any Python (version 3+) executable like so:
+ - python3 tests.py
